@@ -1,13 +1,19 @@
 {
-  "state":"Sulawesi Selatan",
-  "country":"Indonesia",
-  "country_code":"ID",
-  "items":[
-    {"date_for":"2019-12-13",
-     "fajr":"4:18 am",
-     "shurooq":"5:40 am",
-     "dhuhr":"11:56 am",
-     "asr":"1:56 pm",
-     "maghrib":"6:12 pm",
-     "isha":"7:24 pm"}]
+  "query": "makassar",
+  "prayer_method_name": "Egyptian General Authority of Survey",
+  "state": "Sulawesi Selatan",
+  "country": "Indonesia",
+  "country_code": "ID",
+  "items": [
+    {
+      "date_for": "2019-12-12",
+      "fajr": "4:18 am",
+      "shurooq": "5:39 am",
+      "dhuhr": "11:55 am",
+      "asr": "1:56 pm",
+      "maghrib": "6:11 pm",
+      "isha": "7:23 pm"
+    }
+  ],
+  "status_description": "Success."
 }
