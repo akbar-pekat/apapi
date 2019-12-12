@@ -1,8 +1,4 @@
 {
-  "query":"makassar",
-  "for":"daily",
-  "prayer_method_name":"Egyptian General Authority of Survey",
-  "qibla_direction":"292.45",
   "state":"Sulawesi Selatan",
   "country":"Indonesia",
   "country_code":"ID",
@@ -13,6 +9,5 @@
      "dhuhr":"11:56 am",
      "asr":"1:56 pm",
      "maghrib":"6:12 pm",
-     "isha":"7:24 pm"}],
-  "status_description":"Success."
+     "isha":"7:24 pm"}]
 }
