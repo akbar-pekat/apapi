@@ -1,25 +1,20 @@
 {
 "films":[
   {
-    "title": "Ad Astra",
-    "rating": "6,8/10",
-    "year": "2017",
-    "duration": "2j 3m",
-    "poster": "null"
+    "title": "Jumanji: The Next Level",
+    "poster_url": "https://image.tmdb.org/t/p/original/l4iknLOenijaB85Zyb5SxH1gGz8.jpg"
   },
   {
     "title": "Frozen II",
-    "rating": "7,3/10",
-    "year": "2018",
-    "duration": "1j 43m",
-    "poster": "null"
+    "poster_url": "https://image.tmdb.org/t/p/original/qdfARIhgpgZOBh3vfNhWS4hmSo3.jpg"
+  },
+  {
+    "title": "Ad Astra",
+    "poster_url": "https://image.tmdb.org/t/p/original/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
   },
   {
     "title": "The Irishman",
-    "rating": "8,2/10",
-    "year": "2019",
-    "duration": "3h 29min",
-    "poster": "null"
-  }
+    "poster_url": "https://image.tmdb.org/t/p/original/1ZX0HLuxLJAc7cHau8MOC9Qwbvk.jpg"
+  },
 ]
 }
