@@ -1,19 +1,25 @@
 {
-  "query": "makassar",
-  "prayer_method_name": "Egyptian General Authority of Survey",
-  "state": "Sulawesi Selatan",
-  "country": "Indonesia",
-  "country_code": "ID",
-  "items": [
-    {
-      "date_for": "2019-12-12",
-      "fajr": "4:18 am",
-      "shurooq": "5:39 am",
-      "dhuhr": "11:55 am",
-      "asr": "1:56 pm",
-      "maghrib": "6:11 pm",
-      "isha": "7:23 pm"
-    }
-  ],
-  "status_description": "Success."
+"films":[
+  {
+    "title": "Ad Astra",
+    "rating": "6,8/10",
+    "year": "2017",
+    "duration": "2j 3m",
+    "poster": "null"
+  },
+  {
+    "title": "Frozen II",
+    "rating": "7,3/10",
+    "year": "2018",
+    "duration": "1j 43m",
+    "poster": "null"
+  },
+  {
+    "title": "The Irishman",
+    "rating": "8,2/10",
+    "year": "2019",
+    "duration": "3h 29min",
+    "poster": "null"
+  }
+]
 }
