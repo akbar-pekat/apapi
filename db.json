@@ -1,15 +1,19 @@
 {"data":
 [{
   "title": "Ad Astra",
-  "poster": "https://image.tmdb.org/t/p/original/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
+  "poster": "https://image.tmdb.org/t/p/original/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+  "month": "September"
 }, {
   "title": "Frozen II",
-  "poster": "https://image.tmdb.org/t/p/original/qdfARIhgpgZOBh3vfNhWS4hmSo3.jpg"
+  "poster": "https://image.tmdb.org/t/p/original/qdfARIhgpgZOBh3vfNhWS4hmSo3.jpg",
+  "month": "November"
 }, {
   "title": "The Irishman",
-  "poster": "https://image.tmdb.org/t/p/original/1ZX0HLuxLJAc7cHau8MOC9Qwbvk.jpg"
+  "poster": "https://image.tmdb.org/t/p/original/1ZX0HLuxLJAc7cHau8MOC9Qwbvk.jpg",
+  "month": "November"
 }, {
   "title": "Jumanji",
-  "poster": "https://image.tmdb.org/t/p/original/l4iknLOenijaB85Zyb5SxH1gGz8.jpg"
+  "poster": "https://image.tmdb.org/t/p/original/l4iknLOenijaB85Zyb5SxH1gGz8.jpg",
+  "month": "Desember"
 }]
 }
